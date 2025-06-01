@@ -32,7 +32,7 @@ body {
 .header-background {
   position: relative;
   height: 120px; /* Reduced height */
-  background-image: url('safar-safarov-LKsHwgzyk7c-unsplash.jpg'); /* Replace with your image */
+  background-image: url('background.jpg'); /* Replace with your image */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
